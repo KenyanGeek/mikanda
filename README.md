@@ -1,2 +1,2 @@
-# mikanda
-A repository for deep learning models in ecological applications
+# Mikanda
+A repository for deep learning models in ecological applications (in progress)
